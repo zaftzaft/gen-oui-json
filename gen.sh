@@ -1,4 +1,5 @@
 mkdir -p data
+rm data/*
 
 cd ./data
 wget https://standards.ieee.org/develop/regauth/oui/oui.csv
